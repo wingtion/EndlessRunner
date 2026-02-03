@@ -8,9 +8,9 @@ This is a modern Endless Runner game developed with Unity. The player runs at an
 -----------
 🏗️ Architecture
 -----------
-Singleton Pattern: For manager classes
+* Singleton Pattern: For manager classes
 
-Component-based Design: Modular script structure
+*Component-based Design: Modular script structure
 
 Event-driven: Event-based system for UI updates
 
