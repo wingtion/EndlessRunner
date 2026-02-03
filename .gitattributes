@@ -1,2 +1,17 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Linguist'ı manuel override et
+*.cs linguist-language=C#
+*.unity linguist-language=Unity
+*.prefab linguist-language=Unity
+*.mat linguist-language=Unity
+*.asset linguist-language=Unity
+*.controller linguist-language=Unity
+*.anim linguist-language=Unity
+*.physicsMaterial2D linguist-language=Unity
+*.physicsMaterial linguist-language=Unity
+*.spriteatlas linguist-language=Unity
+*.guiskin linguist-language=Unity
+*.fontsettings linguist-language=Unity
+
+# Linguist'ın bu dosyaları saymasını engelle
+*.meta linguist-vendored
+*.unitypackage linguist-vendored
