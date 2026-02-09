@@ -6,7 +6,7 @@ This is a modern Endless Runner game developed with Unity. The player runs at an
 
 ✨ Features
 -----------
-🏗️ Architecture
+Architecture
 -----------
 * Singleton Pattern: For manager classes
 
@@ -26,7 +26,7 @@ This is a modern Endless Runner game developed with Unity. The player runs at an
 
 * Speed Increase Over Time: Game speed increases as playtime extends
 
-🎨 Systems
+Systems
 -----------
 * Object Pooling: Optimized object pooling for performance
 
@@ -36,7 +36,7 @@ This is a modern Endless Runner game developed with Unity. The player runs at an
 
 * Audio Management: Comprehensive sound system for music and effects
 
-⚡ Power-ups
+Power-ups
 -----------
 * Magnet: Automatically collects all nearby coins
 
